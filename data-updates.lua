@@ -1,0 +1,35 @@
+require "config"
+
+-- -- recipe 
+require("prototypes.recipe.gears")
+require("prototypes.recipe.assemblers-molds")
+require("prototypes.recipe.centrifuge")
+require("prototypes.recipe.intermediates")
+require("prototypes.recipe.lava-cooling")
+require("prototypes.recipe.lava-heating")
+require("prototypes.recipe.lava-machines")
+require("prototypes.recipe.machines")
+require("prototypes.recipe.metal-mixing")
+require("prototypes.recipe.metals-advanced")
+require("prototypes.recipe.metals-base")
+require("prototypes.recipe.metals-basic")
+require("prototypes.recipe.mold-crafting-ammo-advanced")
+require("prototypes.recipe.mold-crafting-ammo-basic")
+require("prototypes.recipe.mold-crafting-circuit")
+require("prototypes.recipe.mold-crafting-gears")
+require("prototypes.recipe.mold-crafting-wires")
+require("prototypes.recipe.molds")
+require("prototypes.recipe.ores")
+require("prototypes.recipe.molten-metal-machines")
+require("prototypes.recipe.ore-smelting-advanced")
+require("prototypes.recipe.ore-smelting-base")
+require("prototypes.recipe.ore-smelting-basic")
+-- require("prototypes.recipe.pipes")
+
+-- -- tech
+require("prototypes.technology.centrifuge")
+require("prototypes.technology.lava")
+require("prototypes.technology.lava-smelting")
+require("prototypes.technology.molds")
+-- require("prototypes.technology.others")
+
