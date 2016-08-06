@@ -10,6 +10,7 @@ data:extend(
     energy_required = 0.25,
     enabled = false,
     subgroup = "liquid-crafting-gears",
+	order = "1",
     ingredients =
     {
 	  {type="item", name="mold-gear", amount=1},
@@ -28,6 +29,7 @@ data:extend(
 	category = "metallurgy-mold",
     energy_required = 0.25,
     enabled = false,
+	order = "2",
     subgroup = "liquid-crafting-gears",
     ingredients =
     {
@@ -47,6 +49,7 @@ data:extend(
 	category = "metallurgy-mold",
     energy_required = 0.5,
     enabled = false,
+	order = "3",
     subgroup = "liquid-crafting-gears",
     ingredients =
     {
@@ -66,6 +69,7 @@ data:extend(
 	category = "metallurgy-mold",
     energy_required = 0.75,
     enabled = false,
+	order = "7",
     subgroup = "liquid-crafting-gears",
     ingredients =
     {
@@ -85,6 +89,7 @@ data:extend(
 	category = "metallurgy-mold",
     energy_required = 0.75,
     enabled = false,
+	order = "8",
     subgroup = "liquid-crafting-gears",
     ingredients =
     {
@@ -104,6 +109,7 @@ data:extend(
 	category = "metallurgy-mold",
     energy_required = 0.75,
     enabled = false,
+	order = "92",
     subgroup = "liquid-crafting-gears",
     ingredients =
     {
@@ -123,6 +129,7 @@ data:extend(
 	category = "metallurgy-mold",
     energy_required = 0.75,
     enabled = false,
+	order = "4",
     subgroup = "liquid-crafting-gears",
     ingredients =
     {
@@ -142,6 +149,7 @@ data:extend(
 	category = "metallurgy-mold",
     energy_required = 0.75,
     enabled = false,
+	order = "94",
     subgroup = "liquid-crafting-gears",
     ingredients =
     {
@@ -161,6 +169,7 @@ data:extend(
 	category = "metallurgy-mold",
     energy_required = 0.75,
     enabled = false,
+	order = "93",
     subgroup = "liquid-crafting-gears",
     ingredients =
     {
@@ -180,6 +189,7 @@ data:extend(
 	category = "metallurgy-mold",
     energy_required = 0.75,
     enabled = false,
+	order = "5",
     subgroup = "liquid-crafting-gears",
     ingredients =
     {
@@ -199,6 +209,7 @@ data:extend(
 	category = "metallurgy-mold",
     energy_required = 0.75,
     enabled = false,
+	order = "6",
     subgroup = "liquid-crafting-gears",
     ingredients =
     {
@@ -218,6 +229,7 @@ data:extend(
 	category = "metallurgy-mold",
     energy_required = 0.75,
     enabled = false,
+	order = "9",
     subgroup = "liquid-crafting-gears",
     ingredients =
     {
@@ -237,6 +249,7 @@ data:extend(
 	category = "metallurgy-mold",
     energy_required = 0.75,
     enabled = false,
+	order = "91",
     subgroup = "liquid-crafting-gears",
     ingredients =
     {
